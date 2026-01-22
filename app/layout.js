@@ -18,7 +18,7 @@ const prompt = Prompt({
 });
 
 export const metadata = {
-  title: "Peachy - Modern UI",
+  title: "Adichard - Modern UI",
   description: "Frontend with Next.js",
 };
 
